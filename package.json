@@ -1,0 +1,11 @@
+{
+  "name": "traktor-saha-asistani",
+  "version": "1.0.0",
+  "description": "Zoomlion Agriculture Turkey - Tractor Market Intelligence Assistant",
+  "scripts": {
+    "start": "npx serve . -p ${PORT:-3000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
